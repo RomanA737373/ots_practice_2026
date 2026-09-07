@@ -8,9 +8,9 @@ def get_system_info():
     """
     # TODO: Заполните словарь вашими реальными данными
     system_info = {
-        "student_name": "Иванов Иван Иванович",
+        "student_name": "Анисимов Роман Айратович",
         "academic_group": "ИВТИИбд-11",
-        "github_link": "https://github.com/ivanov_ivan"
+        "github_link": "https://github.com/RomanA737373"
     }
     return system_info
 
